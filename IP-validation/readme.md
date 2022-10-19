@@ -1,4 +1,6 @@
 ### [IP Validation](https://www.codewars.com/kata/515decfd9dcfc23bb6000006/php)
+![ALGORITHMS](https://img.shields.io/badge/ALGORITHMS-grey)
+![REGULAR EXPRESSIONS](https://img.shields.io/badge/REGULAR_EXPRESSIONS-grey)
 
 Write an algorithm that will identify valid IPv4 addresses in dot-decimal format. 
 IPs should be considered valid if they consist of four octets, with values between `0` and `255`, inclusive.
