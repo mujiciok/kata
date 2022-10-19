@@ -21,3 +21,7 @@ Examples of valid inputs:
 ##### Notes:
 * Leading zeros (e.g. `01.02.03.04`) are considered invalid
 * Inputs are guaranteed to be a single string
+
+---
+
+[My solution](https://www.codewars.com/kata/reviews/58a72323238a12e4d800019c/groups/63505d7be2eb050001492244)
