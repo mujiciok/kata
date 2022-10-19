@@ -17,7 +17,7 @@ function productFib($prod)
     return [$prev, $next, false];
 }
 
-function bestPractiveProductFib($prod)
+function bestPracticeProductFib($prod)
 {
     $a = 0;
     $b = 1;
