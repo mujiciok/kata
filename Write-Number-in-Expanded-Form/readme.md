@@ -15,3 +15,7 @@ expanded_form(70304); // Should return "70000 + 300 + 4"
 NOTE: All numbers will be whole numbers greater than 0.
 
 If you liked this kata, check out [part 2](https://www.codewars.com/kata/write-number-in-expanded-form-part-2)!!
+
+---
+
+[My solution](https://www.codewars.com/kata/reviews/5864151cdf95f84264000fe9/groups/6351b0977de25b00012c5f84)

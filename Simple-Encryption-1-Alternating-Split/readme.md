@@ -36,3 +36,6 @@ This kata is part of the Simple Encryption Series:
 
 Have fun coding it and please don't forget to vote and rank this kata! :-)
 
+---
+
+[My solution](https://www.codewars.com/kata/reviews/57cac06135ef62d286000025/groups/6351a55bff584a00019c7b4b)
