@@ -25,7 +25,7 @@ function solution($number)
     return $sum;
 }
 
-function bestPracticeSolution($number)
+function bestPractice_solution($number)
 {
     $sum = 0;
     for ($i = 3; $i < $number; $i++) {

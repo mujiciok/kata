@@ -43,7 +43,7 @@ function decrypt($text, $n)
     return $decrypted;
 }
 
-function bestPracticeEncrypt($text, $n)
+function bestPractice_encrypt($text, $n)
 {
     if ($n <= 0) return $text;
 
@@ -64,7 +64,7 @@ function bestPracticeEncrypt($text, $n)
     return $result;
 }
 
-function bestPracticeDecrypt($text, $n)
+function bestPractice_decrypt($text, $n)
 {
     if ($n <= 0) return $text;
 
