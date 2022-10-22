@@ -12,12 +12,3 @@ function validBraces($braces)
 
     return validBraces($temp);
 }
-
-function bestPractice_validBraces($braces)
-{
-    do {
-        $braces = str_replace(['()', '[]', '{}'], '', $braces, $count);
-    } while ($count);
-
-    return empty($braces);
-}
