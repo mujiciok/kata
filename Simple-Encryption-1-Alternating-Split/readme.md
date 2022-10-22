@@ -1,4 +1,5 @@
 ### [Simple Encryption #1 - Alternating Split](https://www.codewars.com/kata/57814d79a56c88e3e0000786/php)
+![6kyu](https://img.shields.io/badge/6kyu-yellow)
 ![ALGORITHMS](https://img.shields.io/badge/ALGORITHMS-grey)
 ![ARRAYS](https://img.shields.io/badge/ARRAYS-grey)
 ![CRYPTOGRAPHY](https://img.shields.io/badge/CRYPTOGRAPHY-grey)

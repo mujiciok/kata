@@ -1,4 +1,5 @@
 ### [Write Number in Expanded Form](https://www.codewars.com/kata/5842df8ccbd22792a4000245/php)
+![6kyu](https://img.shields.io/badge/6kyu-yellow)
 ![ALGORITHMS](https://img.shields.io/badge/ALGORITHMS-grey)
 ![FUNDAMENTALS](https://img.shields.io/badge/FUNDAMENTALS-grey)
 ![MATHEMATICS](https://img.shields.io/badge/MATHEMATICS-grey)

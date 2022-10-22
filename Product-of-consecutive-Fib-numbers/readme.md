@@ -1,4 +1,5 @@
 ### [Product of consecutive Fib numbers](https://www.codewars.com/kata/5541f58a944b85ce6d00006a/php)
+![5kyu](https://img.shields.io/badge/5kyu-yellow)
 ![ALGORITHMS](https://img.shields.io/badge/ALGORITHMS-grey)
 ![MATHEMATICS](https://img.shields.io/badge/MATHEMATICS-grey)
 

@@ -1,4 +1,5 @@
 ### [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001/php)
+![6kyu](https://img.shields.io/badge/6kyu-yellow)
 ![ALGORITHMS](https://img.shields.io/badge/ALGORITHMS-grey)
 ![STRINGS](https://img.shields.io/badge/STRINGS-grey)
 

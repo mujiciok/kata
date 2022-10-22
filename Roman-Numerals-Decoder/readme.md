@@ -1,4 +1,5 @@
 ### [Roman Numerals Decoder](https://www.codewars.com/kata/51b6249c4612257ac0000005/php)
+![6kyu](https://img.shields.io/badge/6kyu-yellow)
 ![ALGORITHMS](https://img.shields.io/badge/ALGORITHMS-grey)
 
 Create a function that takes a Roman numeral as its argument and returns its value as a numeric decimal integer. 

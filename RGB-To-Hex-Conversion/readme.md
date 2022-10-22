@@ -1,4 +1,5 @@
 ### [RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001/php)
+![5kyu](https://img.shields.io/badge/5kyu-yellow)
 ![ALGORITHMS](https://img.shields.io/badge/ALGORITHMS-grey)
 
 The rgb function is incomplete. Complete it so that passing in RGB decimal values will result in a hexadecimal representation being returned. 

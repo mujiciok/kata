@@ -1,4 +1,5 @@
 ### [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006/php)
+![6kyu](https://img.shields.io/badge/6kyu-yellow)
 ![ALGORITHMS](https://img.shields.io/badge/ALGORITHMS-grey)
 ![MATHEMATICS](https://img.shields.io/badge/MATHEMATICS-grey)
 

@@ -1,4 +1,5 @@
-### [IP Validation](https://www.codewars.com/kata/515decfd9dcfc23bb6000006/php)
+### [IP Validation](https://www.codewars.com/kata/515decfd9dcfc23bb6000006/php) 
+![6kyu](https://img.shields.io/badge/6kyu-yellow)
 ![ALGORITHMS](https://img.shields.io/badge/ALGORITHMS-grey)
 ![REGULAR EXPRESSIONS](https://img.shields.io/badge/REGULAR_EXPRESSIONS-grey)
 
