@@ -19,9 +19,3 @@ function isValidIP(string $str): bool
 
     return true;
 }
-
-function bestPractice_isValidIP(string $str): bool
-{
-    return filter_var($str, FILTER_VALIDATE_IP);
-}
-
