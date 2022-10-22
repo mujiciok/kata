@@ -16,15 +16,3 @@ function productFib($prod)
 
     return [$prev, $next, false];
 }
-
-function bestPractice_productFib($prod)
-{
-    $a = 0;
-    $b = 1;
-    while ($a * $b < $prod) {
-        $next = $a + $b;
-        $a = $b;
-        $b = $next;
-    }
-    return [$a, $b, $a * $b == $prod];
-}
