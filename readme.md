@@ -9,6 +9,7 @@
 * ##### [Roman Numerals Decoder](https://www.codewars.com/kata/51b6249c4612257ac0000005/php)
 * ##### [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001/php)
 * ##### [Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4/php)
+* ##### [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7/php)
 
 
 
