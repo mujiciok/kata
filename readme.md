@@ -12,6 +12,7 @@
 * ##### [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7/php)
 * ##### [Valid Braces](https://www.codewars.com/kata/5277c8a221e209d3f6000b56/php)
 * ##### [Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1/php)
+* ##### [Car Park Escape](https://www.codewars.com/kata/591eab1d192fe0435e000014/php)
 
 
 
