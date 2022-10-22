@@ -1,6 +1,6 @@
 <?php
 
-function bestPractice_rgb($r,$g,$b){
+function rgb($r,$g,$b){
     return sprintf("%02X%02X%02X", checkValue($r), checkValue($g), checkValue($b));
 }
 
