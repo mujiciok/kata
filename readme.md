@@ -14,6 +14,6 @@
 * ##### [Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1/php)
 * ##### [Car Park Escape](https://www.codewars.com/kata/591eab1d192fe0435e000014/php)
 
+### [Leetcode   ](https://leetcode.com/)
 
-
-
+* ##### [Two Sum](https://leetcode.com/problems/two-sum/)
