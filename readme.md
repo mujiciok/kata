@@ -17,4 +17,4 @@
 ### [Leetcode](https://leetcode.com/)
 
 * ##### [Two Sum](https://leetcode.com/problems/two-sum/)
-* ##### [Palindrome Number](https://leetcode.com/problems/palindrome-number//)
+* ##### [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
