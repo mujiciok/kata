@@ -13,6 +13,7 @@
 * ##### [Valid Braces](https://www.codewars.com/kata/5277c8a221e209d3f6000b56/php)
 * ##### [Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1/php)
 * ##### [Car Park Escape](https://www.codewars.com/kata/591eab1d192fe0435e000014/php)
+* ##### [Find the unknown digit](https://www.codewars.com/kata/546d15cebed2e10334000ed9/train/php)
 
 ### [Leetcode](https://leetcode.com/)
 
