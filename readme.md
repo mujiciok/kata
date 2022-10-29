@@ -15,6 +15,7 @@
 * ##### [Car Park Escape](https://www.codewars.com/kata/591eab1d192fe0435e000014/php)
 * ##### [Find the unknown digit](https://www.codewars.com/kata/546d15cebed2e10334000ed9/train/php)
 * ##### [Can you get the loop?](https://www.codewars.com/kata/52a89c2ea8ddc5547a000863/php)
+* ##### [Permutations](https://www.codewars.com/kata/5254ca2719453dcc0b00027d/php)
 
 ### [Leetcode](https://leetcode.com/)
 
