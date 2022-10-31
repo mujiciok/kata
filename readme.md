@@ -16,6 +16,7 @@
 * ##### [Find the unknown digit](https://www.codewars.com/kata/546d15cebed2e10334000ed9/train/php)
 * ##### [Can you get the loop?](https://www.codewars.com/kata/52a89c2ea8ddc5547a000863/php)
 * ##### [Permutations](https://www.codewars.com/kata/5254ca2719453dcc0b00027d/php)
+* ##### [Sum by Factors](https://www.codewars.com/kata/54d496788776e49e6b00052f/php)
 
 ### [Leetcode](https://leetcode.com/)
 
