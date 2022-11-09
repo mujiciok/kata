@@ -1,45 +1,30 @@
 <?php
 
 function dblLinear($n) {
-//   var_dump($n);
-    $sf = [1];
-    $ss = [1];
+    $c = 0;
+    $l = 0;
+    $ss = [[1]];
+    while ($c <= $n * 6000) {
+        $c = addLevel($ss, $l, $c, $n);
+        $l++;
+    }
 
-    $i = 0;
-    [$sf, $ss] = addSequence($sf, $ss, $i, $n);
+    $ss = array_unique(array_merge(...$ss));
+    sort($ss);
 
-    return min(min($sf), min($ss));
+    return $ss[$n];
 }
 
-function addSequence(&$sf, &$ss, &$i, $n) {
-    if ($i === $n) {
-        return [$sf, $ss];
+function addLevel(&$ss, $l, &$c, $n) {
+    foreach ($ss[$l] as $i) {
+        $ss[$l+1][] = first($i);
+        if ($c <= $n * 7000) {
+            $ss[$l+1][] = second($i);
+        }
+        $c = max($c, first($i));
     }
 
-    $fm = min($sf);
-    $sm = min($ss);
-
-    if ($fm < $sm) {
-        unset($sf[array_key_first($sf)]);
-        $f = $fm;
-    } elseif ($sm < $fm) {
-        unset($ss[array_key_first($ss)]);
-        $f = $sm;
-    } else {
-        unset($sf[array_key_first($sf)]);
-        unset($ss[array_key_first($ss)]);
-        $f = $fm;
-    }
-
-    if ($i < ($n / 3 * 2)) {
-        $sf[] = first($f);
-    }
-    if ($i < ($n / 2)) {
-        $ss[] = second($f);
-    }
-    $i++;
-
-    return addSequence($sf, $ss, $i, $n);
+    return $c;
 }
 
 function first($n) {
