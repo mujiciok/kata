@@ -24,4 +24,4 @@ Focus attention on efficiency
 
 ---
 
-My solution
+[My solution](https://www.codewars.com/kata/reviews/5798bc8d964d77282d000037/groups/636c17a2091b440001d03a04)

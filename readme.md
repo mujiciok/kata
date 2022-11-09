@@ -17,6 +17,7 @@
 * ##### [Can you get the loop?](https://www.codewars.com/kata/52a89c2ea8ddc5547a000863/php)
 * ##### [Permutations](https://www.codewars.com/kata/5254ca2719453dcc0b00027d/php)
 * ##### [Sum by Factors](https://www.codewars.com/kata/54d496788776e49e6b00052f/php)
+* ##### [Twice linear](https://www.codewars.com/kata/5672682212c8ecf83e000050/php)
 
 ### [Leetcode](https://leetcode.com/)
 
