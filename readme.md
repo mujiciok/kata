@@ -19,6 +19,7 @@
 * ##### [Sum by Factors](https://www.codewars.com/kata/54d496788776e49e6b00052f/php)
 * ##### [Twice linear](https://www.codewars.com/kata/5672682212c8ecf83e000050/php)
 * ##### [Sudoku Solution Validator](https://www.codewars.com/kata/529bf0e9bdf7657179000008/train/php)
+* ##### [Encrypt this!](https://www.codewars.com/kata/5848565e273af816fb000449/php)
 
 ### [Leetcode](https://leetcode.com/)
 
