@@ -20,6 +20,7 @@
 * ##### [Twice linear](https://www.codewars.com/kata/5672682212c8ecf83e000050/php)
 * ##### [Sudoku Solution Validator](https://www.codewars.com/kata/529bf0e9bdf7657179000008/train/php)
 * ##### [Encrypt this!](https://www.codewars.com/kata/5848565e273af816fb000449/php)
+* ##### [The Hashtag Generator](https://www.codewars.com/kata/52449b062fb80683ec000024/php)
 
 ### [Leetcode](https://leetcode.com/)
 
