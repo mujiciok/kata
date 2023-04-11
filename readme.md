@@ -27,3 +27,4 @@
 * ##### [Two Sum](https://leetcode.com/problems/two-sum/)
 * ##### [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 * ##### [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
+* ##### [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
