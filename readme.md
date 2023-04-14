@@ -31,3 +31,4 @@
 * ##### [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 * ##### [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
 * ##### [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+* ##### [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)

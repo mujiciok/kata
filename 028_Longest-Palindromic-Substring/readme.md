@@ -1,4 +1,4 @@
-    ### [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+### [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 ![Medium](https://img.shields.io/badge/Medium-fff5d9)
 
 Given a string `s`, return _the longest palindromic substring_ in `s`.
